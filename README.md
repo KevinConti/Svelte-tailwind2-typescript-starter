@@ -1,6 +1,6 @@
 # Svelte + TailwindCSS 2.0 + RollupJS starter
 
-Starter template for [Svelte](https://svelte.dev) + [TailwindCSS](https://tailwindcss.com) + [Typescript]() apps. Borrowed from [breadthe](https://github.com/breadthe/svelte-tailwind2-starter)'s starter project.
+Starter template for [Svelte](https://svelte.dev) + [TailwindCSS](https://tailwindcss.com) + [Typescript](https://www.typescriptlang.org/) apps. Borrowed from [breadthe](https://github.com/breadthe/svelte-tailwind2-starter)'s starter project.
 
 It has built-in support for TailwindCSS 2.0, while the bundling is handled by Rollup.
 
